@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/explore_catalog"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Explore Supermarket" />
+        <item
+            android:id="@+id/takemeTo"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Take Me To a section" />
+    </group>
+
+    <item android:title="Review">
+        <menu>
+            <item
+                android:id="@+id/shopping_list_review"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Your Shopping List" />
+            <item
+                android:id="@+id/pending_items_select"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Pending Items" />
+            <item
+                android:id="@+id/cart_checkout"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Checkout Cart" />
+        </menu>
+    </item>
+
+
+
+</menu>

@@ -1,0 +1,56 @@
+{
+  "allMajors": [
+    {
+      "12365": {
+        "monument": "Amer Fort",
+        "city": "Amer",
+        "allMinors": [
+          {
+            "11111": {
+              "place": {
+                "name": "First courtyard",
+                "description": "An impressive stairway from Jalebi Chowk leads into the main palace grounds. Here, at the entrance to the right of the stairway steps is the Sila Devi temple where the Rajput Maharajas worshipped, starting with Maharaja Mansingh in the 16th century until the 1980s, when the animal sacrifice ritual (sacrifice of a buffalo) practiced by the royalty was stopped. Ganesh Pol, or the Ganesh Gate, named after the Hindu god Lord Ganesh, who removes all obstacles in life, is the entry into the private palaces of the Maharajas. It is a three-level structure with many frescoes that was also built at the orders of the Mirza Raja Jai Singh (1621–1627). Above this gate is the Suhag Mandir where ladies of the royal family used to watch functions held in the Diwan-i-Aam through latticed windows.",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Amer_Fort_Entrance.jpg/300px-Amer_Fort_Entrance.jpg"
+              }
+            }
+          },
+          {
+            "22222": {
+              "place": {
+                "name": "Sila Devi temple",
+                "description": "On the right side of the Jalebi Chowk there is a small but an elegant temple called the Sila Devi temple (Sila Devi was an incarnation of Kali or Durga). The entrance to the temple is through a double door covered in silver with a raised relief. The main deity inside the sanctum is flanked by two lions made of silver. The legend attributed to the installation of this deity is that Maharaja Man Singh sought blessings from Kali for victory in the battle against the Raja of Jessore in Bengal. The goddess instructed the Raja, in a dream, to retrieve her image from the sea bed and install and worship it. The Raja, after he won the battle of Bengal in 1604, retrieved the idol from the sea and installed it in the temple and called it Sila Devi as it was carved out of one single stone slab. At the entrance to the temple, there is also a carving of Lord Ganesha, which is made out of a single piece of coral.",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Silver_door_in_Amber_Fort%2C_Rajasthan.jpg/330px-Silver_door_in_Amber_Fort%2C_Rajasthan.jpg"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "78565": {
+        "monument": "City Palace",
+        "city": "Udaipur",
+        "allMinors": [
+          {
+            "11111": {
+              "place": {
+                "name": "Gateways",
+                "description": "Gateways, colloquially called Pols, are set to the east of Udaipur city .A number of such gateways provide access to the palace complex. The main entry from the city is through the 'Bara Pol' (Great Gate), which leads to the first courtyard. Bara Pol (built in 1600) leads to the ‘Tripolia Pol', a triple arched gate built in 1725, which provides the northern entry. The road between this gate and the palace is lined with shops and kiosks owned by craftsmen, book-binders, miniature painters and textile dealers. Between these two gates, eight marble arches or Toranas are erected. It is said that the Maharanas used to be weighed here with gold and silver, which was then distributed among the local people. Following the Tripolia gate is an arena in front of the Toran Pol and the facade palace, the Manak Chowk, where elephant fights were staged in the past to test their prowess before starting on war campaigns. The main block of the city palace is approached through a modest door from the Ganesha Deodhi terrace. The door is flanked by whitewashed walls vibrantly painted with martial animals in the traditional Rajput style.",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/View_of_the_City_Palace%2C_with_entrance_gateway_in_the_foreground%2C_Udaipur.jpg/210px-View_of_the_City_Palace%2C_with_entrance_gateway_in_the_foreground%2C_Udaipur.jpg"
+              }
+            }
+          },
+          {
+            "22222": {
+              "place": {
+                "name": "Amar Vilas",
+                "description": "Amar Vilas is the uppermost court inside the complex, which is an elevated garden. It provides entry to the Badi Mahal. It was built in Mughal style as a pleasure pavilion . It has cussed arcades enclosing a square marble tub. 'Amar Vilas' is the highest point of the City palace and has wonderful hanging gardens with fountains, towers and terraces.",
+                "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/cd/a3/dd/city-palace-of-udaipur.jpg"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
